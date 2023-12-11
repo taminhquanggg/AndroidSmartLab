@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SmartLab</string>
+    <string name="welcome">Smart Lab chào bạn,</string>
+    <string name="who_are_u">Bạn là ai ?</string>
+    <string name="patient">Bệnh nhân</string>
+    <string name="doctor">Bác sĩ</string>
+    <string name="note">Bạn sẽ sử dụng ứng dụng với vai trò của mình.\n
+        Hãy lựa chọn đúng vai trò !</string>
+
 </resources>

@@ -3,9 +3,5 @@
     <font
         android:fontStyle="normal"
         android:fontWeight="400"
-        android:font="@font/calibri" />
-    <font
-        android:fontStyle="italic"
-        android:fontWeight="400"
-        android:font="@font/calibrii" />
+        android:font="@font/mitr_semi_bold" />
 </font-family>
